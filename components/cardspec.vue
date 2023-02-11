@@ -1,6 +1,6 @@
 <template>
-    <div class="w-[95%] mb-3">
-        <img :src="src" alt="Shoes" />
+    <div class="w-full mb-3 flex justify-center items-center">
+        <img class="w-[95%]" :src="src" alt="Shoes" />
     </div>
 </template>
 <script>

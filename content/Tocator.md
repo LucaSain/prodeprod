@@ -1,4 +1,4 @@
-# Linie de producere a brichete de combustibil cu tocător.
+<h1 style="text-align: center;">Linie de producere a brichete de combustibil cu tocător</h1>
 
 Linia este ieftină și performantă, producând brichete de înaltă calitate în cantități mari.
 Este ideală pentru producerea de combustibil pentru încălzirea caselor private și clădirilor industriale. Este disponibilă.
@@ -6,12 +6,12 @@ Produce brichete de tip Nestro. Costurile lor de producție sunt cele mai mici �
 
 ### Compoziția liniei:
 
-Presă Nefil (PB50)
-Uscător
-Buncăr – dozatorul uscătorului cu melc
-Dulapuri electrice - 3 buc.
-Tocător tip ciocan
-Buncăr pentru alimentarea așchiilor de lemn la tocător
+- Presă Nefil (PB50)
+- Uscător
+- Buncăr – dozatorul uscătorului cu melc
+- Dulapuri electrice - 3 buc.
+- Tocător tip ciocan
+- Buncăr pentru alimentarea așchiilor de lemn la tocător
 
 ### Descrierea echipamentului de linie:
 
@@ -28,13 +28,12 @@ Buncăr pentru alimentarea așchiilor de lemn la tocător
 
 # Specificatii tehnice:
 
-|                                              |                                                                |
-| -------------------------------------------- | -------------------------------------------------------------- |
-| Productivitate                               | 400 ... 600 kg/h                                               |
-| Puterea electrică instalată                  | 72 kW                                                          |
-| Consumul electric total                      | 50 kW                                                          |
-| Tipul de materii prime                       | rumeguș, paie, coaji, viță de vie, tulpini de porumb, fân etc. |
-| Diametru bricheta                            | 53-60 mm.                                                      |
-| Densitatea brichetei                         | 1,1 ... 1,4 kg / dm.                                           |
-| Număr de muncitori necesari operării liniei  | 2 – 3 persoane.                                                |
-| Costul de producție al unei tone de brichete | 1060 lei                                                       |
+|                                             |                                                                |
+| ------------------------------------------- | -------------------------------------------------------------- |
+| Productivitate                              | 400 ... 600 kg/h                                               |
+| Puterea electrică instalată                 | 72 kW                                                          |
+| Consumul electric total                     | 50 kW                                                          |
+| Tipul de materii prime                      | rumeguș, paie, coaji, viță de vie, tulpini de porumb, fân etc. |
+| Diametru bricheta                           | 53-60 mm.                                                      |
+| Densitatea brichetei                        | 1,1 ... 1,4 kg / dm.                                           |
+| Număr de muncitori necesari operării liniei | 2 – 3 persoane.                                                |

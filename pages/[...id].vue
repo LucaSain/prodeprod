@@ -22,12 +22,19 @@ switch(dir[0]){
 <template>
     <div class="w-screen pt-20 prose mx-auto mb-2">
         <ContentDoc />
-            <div class="text-5xl font-bold flex ">
-                Gallery
-            </div>
+        <div class="flex justify-center items-center">
+        <NuxtLink to="/contact"> <button class="btn">Contact</button></NuxtLink>
+        </div>
     </div>
 
-    <div class="ml-2 grid grid-flow-row grid-cols-1 sm:grid-cols-2 grid-rows-1 place-items-center place-content-start">
+  
+    
+    <h1 class="text-5xl text-center font-bold mb-5 mt-10">
+        Galerie
+    </h1>
+    <div class="divider w-screen"></div>
+
+    <div class="w-screen grid grid-flow-row grid-cols-1 sm:grid-cols-1 grid-rows-1 place-items-center place-content-center">
        <div v-for="i in cnt">
             <Cardspec :src="'/'+dir[0]+'/'+i+'.png'"/>
         </div>

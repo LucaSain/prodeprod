@@ -1,4 +1,4 @@
-# Linia LDPB-52
+<h1 style="text-align: center;">Linia LDPB-52</h1>
 
 Este ideală pentru producerea de combustibil pentru încălzirea caselor private și clădirilor industriale. Este disponibilă.
 Produce brichete de tip Nestro. Costurile lor de producție sunt cele mai mici în comparație cu alte tipuri: Pini Kay sau RUF. Consumatorii de brichete doresc să obțină căldură pentru mai puțini bani și, de regulă, nu le pasă cum arată bricheta. Brichetele Nestro sunt de obicei cu 20% mai ieftine decât alte tipuri.

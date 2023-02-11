@@ -1,5 +1,5 @@
 <template>
-    <div  class="pt-20 w-screen grid grid-flow-row grid-cols-1 sm:grid-cols-3 place-items-center place-content-start gap-3">
+    <div  class="pt-20 w-screen grid grid-flow-row grid-cols-1 sm:grid-cols-3 place-items-center place-content-start">
         <div v-for="id in ids">
     <Card :title="id.title" :id="id.id"/>
 </div>

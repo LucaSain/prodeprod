@@ -1,13 +1,21 @@
-# Nefil
+<h1 style="text-align: center;">Nefil</h1>
 
-Nu este o presă scumpă, dar este performantă, producând brichete de înaltă calitate în cantități mari. Brichetele produse sunt cele mai ieftine din punctul de vedere a prețului de producție. Aceste brichete sunt de tip Nestro, costurile lor de producție sunt cele mai mici în comparație cu alte tipuri: Pini Kay sau RUF. Consumatorii de brichete doresc să obțină căldură pentru mai puțini bani și, de regulă, nu le pasă cum arată bricheta. Brichetele Nestro sunt de obicei cu 20% mai ieftine decât celelalte tipuri.
-Această presă este ideală pentru producerea de combustibil pentru încălzirea caselor private și clădirilor industriale. Este mai profitabil pentru persoane private să achiziționeze brichete realizate pe o presă PB-52 decât cărbunele sau lemnul de foc.
+Un randament rentabil pentru productia de brichete incepe de 400 de kg/h in sus. Asta ne spun clientii nostri carora le producem prese si utilaje pentru linia de presa incepand din 2009. În medie, presa noastră produce și vinde între 1000 și 2000 de tone de brichete pe sezon.
 
-Presa „Nefil” – este de tip mecanică, compresând brichetele cu lovituri de șoc. Pentru a alimenta materia primă în matrice pentru presare, sunt instalați doi melci situați pe lateral.
-Nu este nevoie de un sistem hidraulic de lubrifiere deoarece se folosesc rulmenți peste tot și nu există bucșe din bronz. Deoarece corpul este detașabil, presa poate fi dezasamblată cu ușurință.
-Prima presă a fost fabricată de întreprindere în 2009, iar de atunci au fost fabricate peste 20 de prese și linii, care continuă să funcționeze și să aducă profit proprietarilor lor și astăzi. În medie, presa noastră produce și vinde între 1000 și 2000 de tone de brichete pe sezon.
-Presa noastră are cea mai mare productivitate comparativ cu alte prese concurente pe piață producătoare de brichete cu diamentrul de până la 60 mm. De două ori decât cea a unui aparat “Scorpion” și 30% decât cea a unui PBU.
-Daca achizitionati acum intregul set de echipamente pentru productia de brichete de la noi, veti putea primi un profit net de 335.000 lei sau 16.750 euro pe luna.
+In prezent avem aceasta presa gata de vanzare, dar continuam sa executam prese si utilaje la cererea si dupa nevoile clientului:
+
+Presa „Nefil” – este de tip mecanică, compresând brichetele cu lovituri de șoc, compresandu-le din matrice. Pentru a alimenta materia primă în matrice pentru presare, sunt instalați doi melci situați pe lateral.
+
+Presa are cea mai mare productivitate comparativ cu alte prese concurente pe piață producătoare de brichete cu diamentrul de până la 60 mm. De două ori decât cea a unui aparat “Scorpion” și 30% decât cea a unui PBU.
+
+Brichetele produse sunt cele mai ieftine din punctul de vedere a prețului de producție, presa nu foloseste ulei pentru a produce brichetele iar crusta acestora este realizata prin frecare cu matricea fierbinte, ceea ce elimina nevoia unei arderi suplimentare.
+Brichetele produse sunt de tip Nestro, costurile lor de producție sunt cele mai mici, în comparație cu tipurile Pini Kay sau RUF cele Nestro (cu 20% mai ieftin).
+
+### Echipament
+
+- Presa "Nefil"
+- Buncar de alimentare
+- Panou electric
 
 # Specificatii tehnice
 
@@ -22,4 +30,4 @@ Daca achizitionati acum intregul set de echipamente pentru productia de brichete
 | Productivitate                            | 400…700 kg/h                                                                                                                  |
 | Putere instalată (consumată)              | 31,5 kW (22 kW)                                                                                                               |
 
-Demo: https://www.youtube.com/watch?v=Itjp39sy5_c
+[Demo](https://www.youtube.com/watch?v=Itjp39sy5_c)
