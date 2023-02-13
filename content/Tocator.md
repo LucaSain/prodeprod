@@ -23,7 +23,7 @@ Produce brichete de tip Nestro. Costurile lor de producție sunt cele mai mici �
 4. Tocatorul e de tip ciocan. Puterea motorului acestuia este de 30 kW. Zdrobește așchiile de lemn sau siloz în rumeguș.
 5. Buncărul furnizează așchiile în tocător. Alimentarea este controlată de invertor. Puteți încărca așchii de lemn în buncăr și cu un încărcător cu cupă. Capacitate buncăr 1 m3.
    Perioada de recuperare a investitiei: 2,3 luni cu lucru în două schimburi.
-   Profit net pe o jumătate de an 1100000 lei
+   Profit net pe o jumătate de an 59000 euro
    În medie, 1000...2000 de tone de brichete sunt produse și vândute pe echipamentele noastre pe sezon.
 
 # Specificatii tehnice:
