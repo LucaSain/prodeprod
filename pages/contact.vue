@@ -1,7 +1,7 @@
 <template>
     <div class="h-screen w-screen text-3xl flex flex-col justify-center items-center gap-12">
  
-    <div class="-mt-32 text-9xl">
+    <div class="-mt-32 text-5xl sm:text-9xl">
         Contact
     </div>
       
