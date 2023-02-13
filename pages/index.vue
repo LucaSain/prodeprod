@@ -4,7 +4,7 @@
       <div class="max-w-md">
         <h1 class="text-5xl font-bold">Prodeprod</h1>
         <p class="py-6">Peste 30 de ani de experienta in prese de brichetat</p>
-        <button class="btn btn-primary">Exploreaza</button>
+        <NuxtLink to="/showcase"><button class="btn btn-primary">Produse</button></NuxtLink>
       </div>
     </div>
   </div>

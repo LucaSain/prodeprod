@@ -10,8 +10,8 @@
                 </label>
                 <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
                 <li><NuxtLink to="/contact">Contact</NuxtLink></li>
-                <li><NuxtLink to="/about">About</NuxtLink></li>
-                <li><NuxtLink to="/showcase">Showcase</NuxtLink></li>
+                <li><NuxtLink to="/about">Despre</NuxtLink></li>
+                <li><NuxtLink to="/showcase">Produse</NuxtLink></li>
                 </ul>
             </div>
             <NuxtLink to="/" class="btn btn-ghost normal-case text-xl">Prodeprod</NuxtLink>
@@ -22,10 +22,10 @@
                     <NuxtLink to="/contact">Contact</NuxtLink>
                 </li>
                 <li>
-                    <NuxtLink to="/about">About</NuxtLink>
+                    <NuxtLink to="/about">Despre</NuxtLink>
                 </li>
                 <li>
-                    <NuxtLink to="/showcase">Showcase</NuxtLink>
+                    <NuxtLink to="/showcase">Produse</NuxtLink>
                 </li>
             </ul>
         </div>
